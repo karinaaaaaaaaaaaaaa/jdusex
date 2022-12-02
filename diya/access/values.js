@@ -4,8 +4,8 @@ var isCovidCertificateEnabled = true; // COVID-сертификат
 
 // Общее
 var birthdate = "31.10.2001"; // Дата рождения
-var fullname = "Яковлєва Олена Євгенівна" // ФИО
-var name = "Олена" // Имя
+var fullname = "Федоренко Каріна Євгенівна" // ФИО
+var name = "Каріна" // Имя
 
 // Паспорт
 var passport_id = "438466456" // Номер паспорта
